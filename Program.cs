@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Aula16Construtores
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
